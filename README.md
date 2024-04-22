@@ -23,4 +23,4 @@ The project uses the following dependencies:
 - Make sure to have Node.js and npm installed before running the application.
 
 ## Live Demo
-You can view a live demo of this application on Netlify: [Netlify Price Card App](https://netlify-pricecard.netlify.app/)
+You can view a live demo of this application on Netlify: [Netlify Price Card App](https://wwwreactpricecardcom.netlify.app//)
